@@ -19,3 +19,4 @@
 - We use ```Beautiful soup``` library to find all the ```article``` tags.
 - We fetch the data of each book  from this ```article``` tag and then store this value in an excel spreadsheet.
 - We are using ```xlsxwriter``` library to write our data into an excel sheet and save the file in th root directory.
+- We use ```uuid`` to get a unique string that will serve as the name of the file.
