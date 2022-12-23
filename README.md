@@ -15,7 +15,7 @@
 ## About the project
 
 - The project comprises of a ```scrapper.py``` file.
-- The workflow of the project is very simple. We use the ```requests``` library to make a get request to "http://books.toscrape.com/".
+- The workflow of the project is very simple. We use the ```requests``` library to make a get request to [Toscrappe Books Page](http://books.toscrape.com/).
 - We use ```Beautiful soup``` library to find all the ```article``` tags.
 - We fetch the data of each book  from this ```article``` tag and then store this value in an excel spreadsheet.
 - We are using ```xlsxwriter``` library to write our data into an excel sheet and save the file in th root directory.
