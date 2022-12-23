@@ -1,4 +1,4 @@
-# Web scrapping with python docs
+# Web scrapping with python
 
 ## Dependencies
 
